@@ -1,0 +1,25 @@
+[
+  [
+    "lastUpdate",
+    "Sun Jan 16 2022 23:28:44 GMT+1300 (New Zealand Daylight Time)"
+  ],
+  [
+    "INTERNAL/VIRTUAL_FILE_SYSTEM",
+    {
+      "src\\minecraft.mc": {
+        "data\\minecraft\\tags\\functions\\load.json": 3035976928,
+        "data\\minecraft\\tags\\functions\\tick.json": 3035976928,
+        "data\\minecraft\\loot_tables\\blocks\\turtle_egg.json": 3083115572,
+        "data\\minecraft\\loot_tables\\entities\\turtle.json": 4077466624
+      },
+      "src\\op_turtles.mc": {
+        "data\\minecraft\\tags\\functions\\load.json": 4187001089,
+        "data\\minecraft\\tags\\functions\\tick.json": 2914767826,
+        "data\\op_turtles\\loot_tables\\block_drops.json": 3290843905,
+        "data\\op_turtles\\functions\\load.mcfunction": 2952931849,
+        "data\\op_turtles\\functions\\__generated__\\execute\\0.mcfunction": 2553536345,
+        "data\\op_turtles\\functions\\tick.mcfunction": 699261030
+      }
+    }
+  ]
+]
