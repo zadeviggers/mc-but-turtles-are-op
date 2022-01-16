@@ -1,7 +1,7 @@
 [
   [
     "lastUpdate",
-    "Sun Jan 16 2022 23:28:44 GMT+1300 (New Zealand Daylight Time)"
+    "Mon Jan 17 2022 11:49:34 GMT+1300 (New Zealand Daylight Time)"
   ],
   [
     "INTERNAL/VIRTUAL_FILE_SYSTEM",
@@ -9,8 +9,8 @@
       "src\\minecraft.mc": {
         "data\\minecraft\\tags\\functions\\load.json": 3035976928,
         "data\\minecraft\\tags\\functions\\tick.json": 3035976928,
-        "data\\minecraft\\loot_tables\\blocks\\turtle_egg.json": 3083115572,
-        "data\\minecraft\\loot_tables\\entities\\turtle.json": 4077466624
+        "data\\minecraft\\loot_tables\\blocks\\turtle_egg.json": 4077466624,
+        "data\\minecraft\\loot_tables\\entities\\turtle.json": 494419553
       },
       "src\\op_turtles.mc": {
         "data\\minecraft\\tags\\functions\\load.json": 4187001089,
