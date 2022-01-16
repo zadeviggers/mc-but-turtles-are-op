@@ -26,22 +26,27 @@ dir blocks {
 					{
 						"type": "minecraft:item",
 						"name": "minecraft:diamond_helmet",
-						"weight": 5
+						"weight": 10
 					},
 					{
 						"type": "minecraft:item",
 						"name": "minecraft:diamond_leggings",
-						"weight": 5
+						"weight": 9
 					},
 					{
 						"type": "minecraft:item",
 						"name": "minecraft:diamond_chestplate",
-						"weight": 5
+						"weight": 8
 					},
 					{
 						"type": "minecraft:item",
 						"name": "minecraft:diamond_boots",
-						"weight": 5
+						"weight": 10
+					},
+					{
+						"type": "minecraft:item",
+						"name": "minecraft:diamond_axe",
+						"weight": 9
 					}
 				]
 			},
@@ -63,20 +68,28 @@ dir blocks {
 				"entries": [
 					{
 						"type": "minecraft:item",
-						"name": "minecraft:netherite_helmet"
-						
+						"name": "minecraft:netherite_helmet",
+						"weight": 5
 					},
 					{
 						"type": "minecraft:item",
-						"name": "minecraft:netherite_leggings"
+						"name": "minecraft:netherite_leggings",
+						"weight": 4
 					},
 					{
 						"type": "minecraft:item",
-						"name": "minecraft:netherite_chestplate"
+						"name": "minecraft:netherite_chestplate",
+						"weight": 3
 					},
 					{
 						"type": "minecraft:item",
-						"name": "minecraft:netherite_boots"
+						"name": "minecraft:netherite_boots",
+						"weight": 5
+					},
+					{
+						"type": "minecraft:item",
+						"name": "minecraft:netherite_axe",
+						"weight": 4
 					}
 				],
 				"conditions": [
@@ -113,6 +126,11 @@ dir entities {
 									{
 										"source": "EntityTag",
 										"target": "EntityTag",
+										"op": "merge"
+									},
+									{
+										"source": "display",
+										"target": "display",
 										"op": "merge"
 									}
 								]
