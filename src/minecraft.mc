@@ -85,6 +85,11 @@ dir entities {
 				"entries": [
 					{
 						"type": "minecraft:item",
+						"name": "minecraft:turtle_helmet",
+						"weight": 12
+					},
+					{
+						"type": "minecraft:item",
 						"name": "minecraft:diamond_helmet",
 						"weight": 10
 					},
